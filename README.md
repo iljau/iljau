@@ -1,4 +1,10 @@
-## Hi there 👋
+<ul>
+    <li><a href="https://www.linkedin.com/in/iljau/">linkedin.com/in/iljau/</a></li>
+    <li><a href="https://www.xing.com/profile/Ilja_Umov">xing.com/profile/Ilja_Umov</a></li>
+    <li><a href="https://www.instagram.com/iljauu/">instagram.com/iljauu/</a></li>
+    <li><a href="https://www.threads.net/@iljauu">threads.net/@iljauu</a></li>
+    <li><a href="https://leiud.tumblr.com/">leiud.tumblr.com</a></li>
+</ul>
 
 <!--
 **iljau/iljau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
