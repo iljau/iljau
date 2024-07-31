@@ -1,3 +1,4 @@
+<!--
 <ul>
     <li>
         <a href="https://www.linkedin.com/in/iljau/"><i class="fab fa-linkedin-in"></i> linkedin.com/in/iljau</a>
@@ -8,7 +9,7 @@
     </li>
 </ul>
 
-<!--
+
 **iljau/iljau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
